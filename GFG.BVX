@@ -1,1 +1,0 @@
-<Job BvxVersion="1.0" DeliveryDate=".."><AttDefs /><Parts><Part Pset_Wood="{'Type': '48x198', 'Length': 182.0, 'Width': '48', 'Height': '198', 'Use': 'STENDER', 'Material code': 'C24', 'Shape': 'RECT'}" Pset_ColumnCommon="{'Reference': '1-6', 'Span': 181.9999999999999, 'LoadBearing': False}" /></Parts>Here comes the Part Parameters<Boards /></Job>

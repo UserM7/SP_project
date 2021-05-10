@@ -1,0 +1,50 @@
+
+  <SawCut
+    ReferenceSide="3"
+    Orientation="Left"
+    Angle="90"
+    Bevel="90"
+    LengthMeas="2000"
+    CrossMeas1="50"
+    CrossMeas2="0"/>
+
+
+  <Lap
+    ReferenceSide="4" -
+    LengthMeas="150" -
+    CrossMeas1="50" -
+    CrossMeas2="30" -
+    Length="140" -
+    LengthOrientation="Centered" -
+    Angle="50"
+    Bevel="0"
+    Rotation="0"
+    SplinterFree="False"/>
+
+
+    <Housing
+      ReferenceSide="2"
+      LengthMeas="150"
+      CrossMeas1="50"
+      CrossMeas2="30"
+      Length="140"
+      LengthOrientation="Centered"
+      Angle="50"
+      Bevel="0"
+      Rotation="0"
+       SplinterFree="False"
+    Width="50"
+    WidthOrientation="Right"/>
+
+
+    <SawDado
+      ReferenceSide="3"
+      StartLengthMeas="15"
+      EndLengthMeas="85"
+      StartCrossMeas="10"
+      EndCrossMeas="10"
+      Depth="140"
+      Bevel="0"
+      Measurement="Outside"
+      SawBladeOrientation="Right"
+      Offcut="False"/>

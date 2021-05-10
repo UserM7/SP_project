@@ -1,13 +1,5 @@
+
 from __future__ import print_function
-
-import xml.etree.ElementTree as ET
-from ElementTree_pretty import prettify
-import ifcopenshell.util
-import ifcopenshell.util.element
-from xml.dom import minidom
-
-
-
 
 try:
     import ifcopenshell
@@ -18,21 +10,9 @@ from OCC.Display.SimpleGui import init_display
 
 import ifc_metadata
 
-"""for dim in column:
-    geo = ifcopenshell.util.element.get_psets(dim)
-    print(geo)"""
-
-#comment = Comment('Generated for PyMOTW')
-#top.append(comment)
-
-"""child_with_tail = SubElement(top, 'child_with_tail')
-child_with_tail.text = 'This child has regular text.'
-child_with_tail.tail = 'And "tail" text.'
-
-child_with_entity_ref = SubElement(top, 'child_with_entity_ref')
-child_with_entity_ref.text = 'This & that'
-"""
-#print(prettify(top))
+# viewer settings
+settings = ifcopenshell.geom.settings()
+settings.set(settings.USE_PYTHON_OPENCASCADE, True)
 
 # Open the IFC file using IfcOpenShell
 filepath = "/Users/abubakrazizi/PycharmProjects/SP_project/91004a.ifc"
@@ -44,26 +24,40 @@ print("file opened.")
 products = ifc_file.by_type("IfcProduct")
 metadata = ifc_metadata.metadata_dictionary(ifc_file)
 
+# First filter products to display
+# just keep the ones with a 3d representation
 products_to_display = []
-
 for product in products:
     if (product.is_a("IfcPlate") or
-         product.is_a("IfcSite") or product.is_a("IfcWall") or product.is_a("IfcBuildingElementPart")):
+         product.is_a("IfcSite") or product.is_a("IfcAnnotation")):
             continue
     if product.Representation is not None:
         products_to_display.append(product)
 print("Products to display: %i" % len(products_to_display))
 # For every product a shape is created if the shape has a Representation.
 print("Traverse data with associated 3d geometry")
-
 idx = 0
 product_shapes = []
-
-print(products_to_display)
-
 for product in products_to_display:
         # display current product
+        shape = ifcopenshell.geom.create_shape(settings, product).geometry
+        product_shapes.append((product, shape))
         idx += 1
-        #print("\r[%i%%]Product: %s" % (int(idx*100/len(products_to_display)), product))
-        #print(product)
-        #print(metadata[product])
+        print("\r[%i%%]Product: %s" % (int(idx*100/len(products_to_display)), product))
+        print(metadata[product])
+
+# Initialize a graphical display window
+print("Initializing pythonocc display ...", end="")
+display, start_display, add_menu, add_function_to_menu = init_display()
+print("initialization ok.")
+# then pass each shape to the display
+nbr_shapes = len(product_shapes)
+idx = 0
+for ps in product_shapes:
+    display.DisplayShape((ps[1]))
+    idx += 1
+    # progress bar
+    print("[%i%%] Sending shapes to pythonocc display." % int(idx*100/nbr_shapes))
+display.FitAll()
+display.display_graduated_trihedron()
+start_display()

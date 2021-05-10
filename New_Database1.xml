@@ -1,0 +1,192 @@
+<?xml version="1.0" ?>
+<Job BvxVersion="1.0" DeliveryDate="..">
+   <AttDefs/>
+   <Parts>
+      <Part Name="48x198" PartId="1" width="48" Hight="198" Length="182.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="182.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x298" PartId="2" width="48" Hight="298" Length="3286.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="3286.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="73X96" PartId="3" width="73" Hight="96" Length="3542.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="3542.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="73x148" PartId="4" width="73" Hight="148" Length="3542.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="3542.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x198" PartId="5" width="48" Hight="198" Length="182.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="182.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x148" PartId="6" width="48" Hight="148" Length="3455.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="3455.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x298" PartId="7" width="48" Hight="298" Length="808.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="808.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x298" PartId="8" width="48" Hight="298" Length="808.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="808.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x198" PartId="9" width="48" Hight="198" Length="182.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="182.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x298" PartId="10" width="48" Hight="298" Length="808.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="808.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x198" PartId="11" width="48" Hight="198" Length="182.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="182.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x298" PartId="12" width="48" Hight="298" Length="808.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="808.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x298" PartId="13" width="48" Hight="298" Length="3286.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="3286.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x298" PartId="14" width="48" Hight="298" Length="3286.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="3286.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x198" PartId="15" width="48" Hight="198" Length="2400.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="2400.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x298" PartId="16" width="48" Hight="298" Length="3286.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="3286.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x73" PartId="17" width="48" Hight="73" Length="3196.87" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="3196.87" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x198" PartId="18" width="48" Hight="198" Length="182.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="182.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x248" PartId="19" width="48" Hight="248" Length="3542.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="3542.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x298" PartId="20" width="48" Hight="298" Length="2400.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="2400.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x248" PartId="21" width="48" Hight="248" Length="3542.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="3542.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x298" PartId="22" width="48" Hight="298" Length="3286.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="3286.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x298" PartId="23" width="48" Hight="298" Length="3542.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="3542.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x298" PartId="24" width="48" Hight="298" Length="3286.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="3286.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x298" PartId="25" width="48" Hight="298" Length="808.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="808.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x298" PartId="26" width="48" Hight="298" Length="3286.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="3286.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x198" PartId="27" width="48" Hight="198" Length="182.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="182.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x298" PartId="28" width="48" Hight="298" Length="808.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="808.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x298" PartId="29" width="48" Hight="298" Length="808.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="808.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x148" PartId="30" width="48" Hight="148" Length="3455.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="3455.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="73X96" PartId="31" width="73" Hight="96" Length="768.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="768.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x298" PartId="32" width="48" Hight="298" Length="808.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="808.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x248" PartId="33" width="48" Hight="248" Length="1202.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="1202.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x73" PartId="34" width="48" Hight="73" Length="3196.87" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="3196.87" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="73X96" PartId="35" width="73" Hight="96" Length="708.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="708.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x248" PartId="36" width="48" Hight="248" Length="708.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="708.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+      <Part Name="48x223" PartId="37" width="48" Hight="223" Length="3590.0" Dimension="Rectangular" ReqQuantity="" Comments="" JobName="" Grade="">
+         <SawCut ReferenceSide="3" Orientation="Right" Angle="90" Bevel="90" LengthMeas="0.00" CrossMeas1="50" CrossMeas2="0"/>
+         <SawCut ReferenceSide="3" Orientation="Left" Angle="90" Bevel="90" LengthMeas="3590.0" CrossMeas1="50" CrossMeas2="0"/>
+         <Lap ReferenceSide="4" LengthMeas="" CrossMeas1="" CrossMeas2="" Length="" LengthOrientation="" Angle="" Bevel="" Rotation="" SplinterFree=""/>
+      </Part>
+   </Parts>
+   <Boards/>
+</Job>
